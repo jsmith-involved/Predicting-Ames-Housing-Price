@@ -1,4 +1,4 @@
-# Project 1: Ames Housing Data and Kaggle Challenge
+# Project 2: Ames Housing Data and Kaggle Challenge
 
 As a prominent real estate consultant in the country, the city of Ames Iowa asked me to help them predict the housing prices of a local builders’ new development. They were interested in my expertise because I am an Adobe DSI student, and locals are anxiously worried their mortgages would experience sympathetic effects of the new builds. The objective of this my new study is to develop a model that best predicts the price of Red Oak Construction as close as possible. I aim to predict these prices so the city of Ames can decide if they should increase property taxes throughout the city, or if they should lower property taxes to help their citizens.
 
